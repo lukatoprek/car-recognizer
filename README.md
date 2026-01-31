@@ -56,3 +56,14 @@ The system consists of three main interconnected parts:
 - Optimizer: AdamW
 - Augmentation: MixUp, random crops, rotations, color jitter
 
+- ## Performance
+
+- Validation Accuracy: ~95.5%
+- Precision (macro): ~95.3%
+- Recall (macro): ~95.4%
+- F1-score (macro): ~95.1%
+
+- ## License
+
+This project was developed for educational purposes as part of a university course.
+
