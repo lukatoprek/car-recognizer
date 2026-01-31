@@ -45,3 +45,14 @@ The system consists of three main interconnected parts:
 - **Android Studio** - Development environment
 - **Git & GitHub** - Version control
 - **Azure Portal** - Cloud resource management
+
+- ## Model Details
+
+- Architecture: ResNet-50
+- Training approach: Transfer learning (ImageNet pretrained weights)
+- Number of classes: 1,343
+- Input size: 224 × 224 RGB images
+- Loss function: CrossEntropyLoss (class weighting + label smoothing)
+- Optimizer: AdamW
+- Augmentation: MixUp, random crops, rotations, color jitter
+
