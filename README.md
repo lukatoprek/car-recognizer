@@ -1,6 +1,6 @@
 # Car Recognizer
-![First Image]([https://imgur.com/a/ibsIIdN])
-![Second Image]([https://imgur.com/a/ibsIIdN])
+![First Image](https://i.imgur.com/5cC8OzY.jpeg)
+![Second Image](https://i.imgur.com/GkEEwax.png)
 ## Key Features
 *   **AI Model**: ResNet-50 architecture, fine-tuned on 1,343 car model classes from the CompCars dataset.
 *   **Cloud Inference**: Model deployed as a **Real-time REST API endpoint** on Azure Machine Learning.
