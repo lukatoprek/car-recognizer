@@ -46,7 +46,7 @@ The system consists of three main interconnected parts:
 - **Git & GitHub** - Version control
 - **Azure Portal** - Cloud resource management
 
-- ## Model Details
+## Model Details
 
 - Architecture: ResNet-50
 - Training approach: Transfer learning (ImageNet pretrained weights)
@@ -56,14 +56,14 @@ The system consists of three main interconnected parts:
 - Optimizer: AdamW
 - Augmentation: MixUp, random crops, rotations, color jitter
 
-- ## Performance
+## Performance
 
 - Validation Accuracy: ~95.5%
 - Precision (macro): ~95.3%
 - Recall (macro): ~95.4%
 - F1-score (macro): ~95.1%
 
-- ## License
+## License
 
 This project was developed for educational purposes as part of a university course.
 
